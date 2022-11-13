@@ -1,4 +1,4 @@
-[![Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?raw=true)](https://linkedin.com/in/ravindramevada)
+[![Logo](linkedin-logo.png?raw=true)](https://linkedin.com/in/ravindramevada)
 
 ![Programming Languages](https://img.shields.io/badge/programming%20languages-black.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C%20(familiar)-00589c.svg?style=for-the-badge&logo=c&logoColor=white) <br>
 ![Python Frameworks](https://img.shields.io/badge/python%20frameworks-black.svg?style=for-the-badge&logo=github&logoColor=white) ![Django](https://img.shields.io/badge/django-092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-696969.svg?style=for-the-badge&logo=pytest&logoColor=white) ![Flask](https://img.shields.io/badge/flask%20(familiar)-black.svg?style=for-the-badge&logo=flask&logoColor=white) <br>
